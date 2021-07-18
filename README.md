@@ -28,5 +28,5 @@
 
 ## 作業連結
 
-- [精神時光屋個人檔案](https://challenge.thef2e.com/user/4143?schedule=4566)
-- [作業](https://github.com/yunndian27/Vue_HW-Pomodoro)
+- [精神時光屋個人檔案](https://challenge.thef2e.com/user/4143?schedule=4566#works-4566)
+- [Vue-Pomodoro](https://github.com/yunndian27/vue_hw-pomodoro)
